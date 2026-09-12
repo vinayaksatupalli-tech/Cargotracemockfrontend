@@ -1,0 +1,6 @@
+{
+  "name": "CarboTrace",
+  "description": "Full-Stack Waste-to-Carbon-Value Chain Tracker with audit-ready provenance, Gemini waste analysis, and carbon credit marketplace.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
